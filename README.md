@@ -2,7 +2,7 @@
 
 A web-based Yu-Gi-Oh! deck viewing application that allows duelists to load and analyze deck files.
 
-🔗 [Live Demo](https://Yeet195.github.io/DeckViewer/)
+🔗 [Live Demo](https://Yeet195.github.io/DeckParser/)
 
 ## Features
 
